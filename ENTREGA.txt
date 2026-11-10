@@ -1,0 +1,10 @@
+GLOBAL SOLUTION - 3SIR
+
+INTEGRANTES
+Nome: <nome completo> | RM: <rm>
+Nome: <nome completo> | RM: <rm>
+Nome: <nome completo> | RM: <rm>
+
+GITHUB: https://github.com/<usuario>/zelo-api
+API AZURE: https://<fqdn-do-container-app>
+DOCKER HUB: https://hub.docker.com/r/<usuario-dockerhub>/zelo-api
