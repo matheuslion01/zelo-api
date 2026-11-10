@@ -1,10 +1,10 @@
 GLOBAL SOLUTION - 3SIR
 
 INTEGRANTES
-Nome: <nome completo> | RM: <rm>
-Nome: <nome completo> | RM: <rm>
-Nome: <nome completo> | RM: <rm>
+Nome: Matheus Lion Muzzi Theodoro Nogueira | RM: 555764
+Nome: Guilherme de Nicola Nesti | RM: 555044
+Nome: Gabriel Borges Medeiros | RM: 556142
 
-GITHUB: https://github.com/<usuario>/zelo-api
-API AZURE: https://<fqdn-do-container-app>
-DOCKER HUB: https://hub.docker.com/r/<usuario-dockerhub>/zelo-api
+GITHUB: https://github.com/matheuslion01/zelo-api
+API AZURE: https://rm555764-zelo-api.greencoast-58481e94.brazilsouth.azurecontainerapps.io
+DOCKER HUB: https://hub.docker.com/r/ticorisa/zelo-api
